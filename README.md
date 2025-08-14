@@ -15,6 +15,8 @@ chmod +x run-chat-client.sh
 ./run-chat-client.sh
 ```
 ## Screenshots
+<img src="https://github.com/rbcurzon/lan-chat/blob/main/ScreenshotClient.png" width="600" />
+<img src="https://github.com/rbcurzon/lan-chat/blob/main/ScreenshotServer.png" width="600" />
 
 ## Contributing
 
